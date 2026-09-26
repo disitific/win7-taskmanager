@@ -15,14 +15,14 @@ Windows 7's legacy task manager inspired system monitor for Arch Linux
 `psutil`
 
 ## Installation
-Go to (releases)[https://github.com/disitific/win7-taskmanager/releases] to download the latest prebuilt tarball packaged for arch linux systems
+Go to [releases](https://github.com/disitific/win7-taskmanager/releases) to download the latest prebuilt tarball packaged for arch linux systems
 ### Want to build it yourself?
 1. Clone this repository/download the source code and `cd` into the cloned path.
 2. Run `makepkg -si` in the cloned path.
 3. Task Manager should appear in your desktop launcher, alternatively you can run win7-taskmanager in the terminal.
 
 ## Recommended
-Download (aeroshell-desktop's aerothemeplasma)[https://github.com/aeroshell-desktop/aerothemeplasma] for full effect!
+Download [aeroshell-desktop's aerothemeplasma](https://github.com/aeroshell-desktop/aerothemeplasma) for full effect!
 
 ## !!DISCLAIMERS!!
 ### This was only tested on classic Arch with KDE Plasma! Anything goes wrong and its on you!
